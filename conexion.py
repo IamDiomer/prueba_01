@@ -7,4 +7,4 @@ class Conexion:
                                user="root",
                                password="",
                                db="bisuteria")
-
+oo
